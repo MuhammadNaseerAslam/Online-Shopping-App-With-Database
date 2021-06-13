@@ -1,5 +1,5 @@
 # Online-Shopping-App-With-Database
-# Online-Shopping-App-with-database-Assignment # 2
+
 
 Objective: Alerts, ListView and Implicit Intents
 Problem: You are requested to design some screens for a shopping which is interested in taking orders
